@@ -8,6 +8,10 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [Unreleased]
 
+### Changed
+
+- Improve `go.opentelemetry.io/otel/trace.Span`'s performance when adding multiple attributes. (#4818)
+
 ## [1.21.0/0.44.0] 2023-11-16
 
 ### Removed
